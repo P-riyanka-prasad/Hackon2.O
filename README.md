@@ -1,3 +1,50 @@
+# Idea
+The COVID19 pandemic outbreak has brought India into a critical situation. As we know the 2nd wave is approaching we have to fight the crisis with strict steps and with proper measures.Ant this has effected the education system badly so to make all education material at one place we have designed our solution TechVeda.
+
+# More Details
+ Education
+This documentation includes the features to be implemented and the sequence of tasks to be performed. You may checkout the items.
+- [ ] Design of website
+- [ ] Chatbot
+- [ ] Front end 
+- [ ] Back end
+
+
+# Features implemented 
+-  
+- Implemented the Agora API for vedio conferrencing
+- Have Registrating Feature 
+- 
+
+
+# Features included
+- Index page: 
+- Dashboard : 
+- Profile : 
+- About us: About the Company
+- Chatting section :
+
+# Tech Stack
+
+- Redux
+- google auth
+- React
+
+**After Log In/Sign In :**
+
+# Dashboard : 
+
+- One can see the Class details
+-
+
+![1](https://user-images.githubusercontent.com/59612128/120021428-af678300-c008-11eb-9200-918be91a6ee5.jpg)
+
+![2](https://user-images.githubusercontent.com/59612128/120021493-c3ab8000-c008-11eb-804c-c703abd11964.jpg)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
